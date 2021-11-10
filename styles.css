@@ -52,3 +52,10 @@ p.dotted{
   border-style: dotted;
   border-width: thick;
 }
+#test5, #test6{
+  color:pink;
+}
+div #test3{
+  color: aqua;
+}
+
