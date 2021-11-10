@@ -42,3 +42,9 @@ body {
 p.center{
   color: blanchedalmond;
 }
+h1:hover{
+  color:burlywood
+}
+p:hover{
+  color: aqua;
+}
