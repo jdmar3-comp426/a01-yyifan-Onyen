@@ -58,4 +58,7 @@ p.dotted{
 div #test3{
   color: aqua;
 }
+div p{
+  color:green;
+}
 
